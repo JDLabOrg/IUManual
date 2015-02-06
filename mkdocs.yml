@@ -1,7 +1,7 @@
 site_name: IUEditor Beta Manual
 pages:
   - ['index.md', 'Home']
-  - ['introduction/what-is-the-iueditor.md', 'Introduction', '아이유에디터가 뭐에요?']
+  - ['Introduction/what-is-the-iueditor.md', 'Introduction', '아이유에디터가 뭐에요?']
 
 theme: readthedocs
 site_author: "iu@jdlab.org"
