@@ -3,8 +3,8 @@ pages:
   - ['index.md', 'Home']
   - ['Introduction/what-is-the-iueditor.md', '소개 Introduction', '아이유에디터가 뭐에요?']
   - ['Introduction/environment.md', '소개 Introduction', '구동환경은?']
-  - ['Features/top-tool-bar.md', '기능설명 Features', '상단 툴바 Top Toolbar']
-  - ['Features/structure-and-resource.md', '기능설명 Features', '페이지 스트럭쳐 & 리소스 Page Structure & Resource']
+  - ['Features/top-tool-bar.md', '기능설명 Features', '상단 툴바']
+  - ['Features/structure-and-resource.md', '기능설명 Features', '페이지 스트럭쳐 & 리소스']
 
 
 theme: readthedocs
