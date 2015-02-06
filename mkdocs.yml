@@ -1,8 +1,8 @@
 site_name: IUEditor Beta Manual
 pages:
   - ['index.md', 'Home']
-  - ['Introduction/what-is-the-iueditor.md', 'Introduction', '아이유에디터가 뭐에요?']
-  - ['Introduction/price.md', 'Introduction', '가격은?']
+  - ['Introduction/what-is-the-iueditor.md', '소개 Introduction', '아이유에디터가 뭐에요?', '아이유에디터?']
+  - ['Introduction/price.md', '소개 Introduction', '아이유에디터가 뭐에요?', '가격은?']
 
 
 theme: readthedocs
