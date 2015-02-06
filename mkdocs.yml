@@ -1,0 +1,8 @@
+site_name: IUEditor Beta Manual
+pages:
+  - [index.md, 'Home']
+theme: readthedocs
+site_author: "iu@jdlab.org"
+repo_url: https://github.com/IUEditor-Manual/iumanual.git
+include_search: true
+#use_directory_urls: false
