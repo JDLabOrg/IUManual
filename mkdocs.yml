@@ -8,5 +8,9 @@ pages:
 theme: readthedocs
 site_author: "iu@jdlab.org"
 repo_url: https://github.com/IUEditor-Manual/iumanual.git
+
+
 include_search: true
-#use_directory_urls: false
+include_nav : true
+include_next_prev :true
+use_directory_urls: true
