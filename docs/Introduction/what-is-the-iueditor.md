@@ -1,5 +1,6 @@
 # 아이유에디터가 뭐에요?
 
+
 ## 아이유에디터?
 아이유에디터IUEditor (이하 아이유에디터)는, WYSIWIG (What You See Is What You Get) 방식의 웹에디터로, Mac OS X 기반에서 실행되는 Mac Application 입니다.
 나모 웹에디터, Wix, 드림위버, Muse 처럼 웹을 만들기 위해 사용합니다만, 몇 가지 특징이 있습니다.
