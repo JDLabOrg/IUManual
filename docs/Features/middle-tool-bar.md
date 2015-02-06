@@ -94,7 +94,7 @@
 
 
 ## 정렬 Align
-선택된 요소의 세로/가로 정렬을 설정합니다. <br /><br />
+선택된 요소의 세로/가로 정렬을 설정합니다. <br /><br /><br />
 
 ## 배경컬러 Background Color
 선택된 요소의 배경컬러 Background color를 설정합니다. <br /><br />
