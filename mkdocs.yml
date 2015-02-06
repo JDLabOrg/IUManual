@@ -6,7 +6,7 @@ pages:
   - ['Features/top-tool-bar.md', '기능설명 Features', '상단 툴바']
   - ['Features/structure-and-resource.md', '기능설명 Features', '페이지 스트럭쳐 & 리소스']
   - ['Features/middle-tool-bar.md', '기능설명 Features', '중앙 툴바']
-  - ['Features/widget/box.md', '기능설명 Features', '중앙 툴바', '박스']  
+  - ['Features/widget/box.md', '기능설명 Features', '중앙 툴바']  
 
 
 theme: readthedocs
