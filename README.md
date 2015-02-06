@@ -1,2 +1,2 @@
-# iumanual
+# IUEditor Beta Manual Documents
 iumanual
