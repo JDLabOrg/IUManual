@@ -4,15 +4,15 @@
 *****
 ![Alt text](/img/steps-new-project.png)<br />
 ## 프로젝트 생성
-1. 아이유에디터의 메뉴 중, File -> New Project를 선택합니다.
-2. 팝업 윈도우에서 Default Project -> Empty Page 를 선택합니다.
+1. 아이유에디터의 메뉴 중, __File > New Project__를 선택합니다.
+2. 팝업 윈도우에서 __Default Project > Empty Page__ 를 선택합니다.
 
 
 *****
 ![Alt text](/img/steps-add-widget.png)<br />
 ## 위젯 추가하기
-1. 중앙 툴바의 위젯 항목내의 위젯을 클릭하여 활성화 시킵니다.
-2. 활성화 상태에서 스테이지에 클릭+드래그를 하여 원하는 크기로 추가하거나, 클릭하여 원하는 크기를 입력합니다.
+1. 중앙 툴바의 위젯 항목내의 __위젯__을 클릭하여 __활성화__ 시킵니다.
+2. 활성화 상태에서 스테이지에 __클릭+드래그__를 하여 원하는 크기로 추가하거나, __클릭__하여 원하는 크기를 입력합니다.
 
 *****
 ![Alt text](/img/steps-edit-style.png)<br />
@@ -22,8 +22,8 @@
 
 *****
 ## 프로젝트 저장 & 빌드하기
-1. 아이유에디터의 메뉴 중, File > Save 를 선택하여 원하는 위치에 저장합니다.
-2. 아이유에디터의 상단 툴바내 제일 좌측에 있는 빌드버튼![Alt text](/img/steps-build-btn.png)을 클릭합니다.
+1. 아이유에디터의 메뉴 중, __File > Save__ 를 선택하여 원하는 위치에 저장합니다.
+2. 아이유에디터의 상단 툴바내 제일 좌측에 있는 __빌드버튼__![Alt text](/img/steps-build-btn.png)을 클릭합니다.
 3. 스테이지에 추가된 위젯이 웹페이지로 만들어진 것을 확인할 수 있습니다.
 ![Alt text](/img/steps-after-build.png)
 
@@ -35,8 +35,8 @@
 <br /><br />
 
 ![Alt text](/img/steps-upload-to-heroku.png)<br />
-1. 상단 툴바에 있는 업로드 버튼을 클릭하여, __Synd with Heroku__ 메뉴를 선택합니다.
-![Alt text](/img/steps-upload-to-heroku.png)<br />
+1. 상단 툴바에 있는 __업로드__ 버튼을 클릭하여, __Synd with Heroku__ 메뉴를 선택합니다.
+![Alt text](/img/steps-heroku-setup.png)<br />
 2. 헤로쿠 셋업 팝업에서 로그인을 합니다.
 3. __Initialize__ 버튼을 클릭하여 Git 을 준비합니다.
 4. __Sync with New App__ 필드에 원하는 __프로젝트 이름__을 입력합니다.(대소문자구분불가, 공백불가)
