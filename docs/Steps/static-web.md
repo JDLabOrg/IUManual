@@ -35,7 +35,7 @@
 <br /><br />
 
 ![Alt text](/img/steps-upload-to-heroku.png)<br />
-1. 상단 툴바에 있는 __업로드__ 버튼을 클릭하여, __Synd with Heroku__ 메뉴를 선택합니다.
+1. 상단 툴바에 있는 __업로드__ 버튼을 클릭하여, __Sync with Heroku__ 메뉴를 선택합니다.
 ![Alt text](/img/steps-heroku-setup.png)<br />
 2. 헤로쿠 셋업 팝업에서 로그인을 합니다.<br />
 3. __Initialize__ 버튼을 클릭하여 Git 을 준비합니다.<br />
