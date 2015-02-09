@@ -1,5 +1,5 @@
 # 상단 툴바
-![Alt text](../img/top-toolbar.png)<br /><br />
+![Alt text](/../img/top-toolbar.png)<br /><br />
 상단 툴바는 __1)커맨드 2)탭 메뉴 3)트레이싱 4)페이지설정 5)줌__ 영역으로 구분됩니다.<br />
 
 
