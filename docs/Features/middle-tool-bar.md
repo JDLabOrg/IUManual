@@ -6,15 +6,19 @@
 ## 위젯 Widget
 위젯 영역에는 아이유에디터에서 사용 가능한 모든 위젯들이 보여집니다. 기본적으로 __박스 / 텍스트 / 이미지__ 위젯을 제공하며, 다양한 위젯을 지원합니다.<br />
 
+![Alt text](/../img/widget-box.png)<br />
 ### 박스 Box
 박스 형태의 위젯입니다.
 
+![Alt text](/../img/widget-text.png)<br />
 ### 텍스트 Text
 텍스트 위젯입니다.
 
+![Alt text](/../img/widget-image.png)<br />
 ### 이미지 Image
 이미지 위젯입니다.
 
+![Alt text](/../img/widget-transition.png)<br />
 ### 트랜지션 Transition
 롤오버 또는 클릭 이벤트가 발생했을 때 상태변화를 만들 수 있는 위젯입니다. 2개의 하위요소가 제공됩니다.
 
