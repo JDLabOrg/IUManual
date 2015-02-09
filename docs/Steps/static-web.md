@@ -37,12 +37,12 @@
 ![Alt text](/img/steps-upload-to-heroku.png)<br />
 1. 상단 툴바에 있는 __업로드__ 버튼을 클릭하여, __Synd with Heroku__ 메뉴를 선택합니다.
 ![Alt text](/img/steps-heroku-setup.png)<br />
-2. 헤로쿠 셋업 팝업에서 로그인을 합니다.
-3. __Initialize__ 버튼을 클릭하여 Git 을 준비합니다.
-4. __Sync with New App__ 필드에 원하는 __프로젝트 이름__을 입력합니다.(대소문자구분불가, 공백불가)
-5. 4번까지 완료되었다면, __Create__ 버튼을 클릭합니다.
-6. __Git State__ 윈도우에 진행로그가 표시됩니다. 2~5분의 시간이 소요됩니다.
+2. 헤로쿠 셋업 팝업에서 로그인을 합니다.<br />
+3. __Initialize__ 버튼을 클릭하여 Git 을 준비합니다.<br />
+4. __Sync with New App__ 필드에 원하는 __프로젝트 이름__을 입력합니다.(대소문자구분불가, 공백불가)<br />
+5. 4번까지 완료되었다면, __Create__ 버튼을 클릭합니다.<br />
+6. __Git State__ 윈도우에 진행로그가 표시됩니다. 2~5분의 시간이 소요됩니다.<br />
 ![Alt text](/img/steps-heroku-success.png)<br />
 7. 업로드가 완료되면, 위처럼 로그가 뜨는 것을 확인할 수 있습니다.
 ![Alt text](/img/steps-after-heroku-upload.png)<br />
-7. __visit__ 버튼을 클릭하면, 업로드된 사이트주소로 이동합니다.
+8. __visit__ 버튼을 클릭하면, 업로드된 사이트주소로 이동합니다.
