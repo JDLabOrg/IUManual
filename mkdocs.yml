@@ -9,7 +9,7 @@ pages:
   - ['Features/middle-tool-bar.md', '기능설명 Features', '중앙 툴바']
   - ['Features/event-panel.md', '기능설명 Features', '이벤트 패널']
   
-  - ['Steps/static-web.md', '제작해보기 Creating Website', '정적인 웹페이지 제작']
+  - ['Steps/static-web.md', '웹사이트 만들기 Creating Website', '정적인 웹페이지 제작']
   
   - ['Widget/box.md', '위젯 속성 Widget Property', '박스']
   - ['Widget/text.md', '위젯 속성 Widget Property', '텍스트']
