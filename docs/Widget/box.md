@@ -1,4 +1,5 @@
 # 박스
+![Alt text](/img/property-blank.png)<br />
 가장 기본적인 위젯입니다.<br /><br />
 
 
