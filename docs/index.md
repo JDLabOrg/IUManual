@@ -5,5 +5,5 @@
 
 <br /><br />
 
-* 아이유에디터 홈페이지 : [[http://iueditor.org]](http://iueditor.org)
-* JDLab 홈페이지 : [[http://jdlab.org]](http://jdlab.org)
+* 아이유에디터 홈페이지 : [http://iueditor.org](http://iueditor.org)
+* JDLab 홈페이지 : [http://jdlab.org](http://jdlab.org)
