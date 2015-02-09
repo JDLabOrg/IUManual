@@ -1,4 +1,5 @@
 # 캐러젤
+![Alt text](/img/property-carousel.png)<br />
 캐러젤 위젯입니다.<br /><br />
 
 

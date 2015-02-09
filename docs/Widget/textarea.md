@@ -1,4 +1,5 @@
 # 인풋 텍스트(문장)
+![Alt text](/img/property-textarea.png)<br />
 인풋 텍스트(문장) 위젯입니다.<br /><br />
 
 
