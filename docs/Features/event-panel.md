@@ -19,4 +19,8 @@ Opacity 투명도 값에 대한 애니메이션을 추가합니다.
 ![Alt text](/../img/event-panel-var.png)<br /><br />
 ## 베리에이블 트리거 Variable Trigger
 
-(TBD)
+### 트리거 Trigger
+선택된 위젯에 특정액션이 발생될 경우 (롤오버 or 클릭) 정의해 두었던 변수 variable 값을 1씩 더하게 됩니다.
+
+### 리시버 Receiver
+트리거메뉴에서 정의한 변수값과 일치하게 될 경우 리시버 메뉴에서 연결한 위젯을 보여줍니다.
