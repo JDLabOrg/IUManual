@@ -1,5 +1,5 @@
 # 이미지
-![Alt text](/img/property-blank.png)<br />
+![Alt text](/img/property-image.png)<br />
 이미지 위젯입니다.<br /><br />
 
 
