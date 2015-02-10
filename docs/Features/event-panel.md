@@ -25,13 +25,13 @@ Opacity 투명도 값에 대한 애니메이션을 추가합니다.
 ### 트리거 Trigger
 선택된 위젯에 특정액션이 발생되도록 (롤오버 or 클릭) 변수값과 옵션을 설정합니다.
 
-#### Variable 
+#### - Variable 
 트리거의 변수값을 설정합니다. ID나 Name과 같은 역할을 합니다.
 
-#### Initial Value
+#### - Initial Value
 트리거의 초기값을 설정합니다.
 
-#### Maximum
+#### - Maximum
 트리거가 최대 몇개의 리시버를 가지는지를 설정합니다.
 
 ### 리시버 Receiver
