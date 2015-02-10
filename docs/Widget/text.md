@@ -1,7 +1,7 @@
 # 텍스트
 ![Alt text](/img/property-blank.png)<br /><br />
 텍스트 위젯입니다.<br />
-&lt;p&gt; 태그로 생성되며 Property 탭에서 &lt;h1&gt; 혹은 &lt;h2&gt; 태그로 변경할 수 있습니다.<br />
+&lt;p&gt; 태그로 생성되며 Text 탭에서 &lt;h1&gt; 혹은 &lt;h2&gt; 태그로 변경할 수 있습니다.<br />
 텍스트 위젯을 생성하고 더블클릭하면 텍스트를 입력할 수 있으며, 그 상태에서 한번 더 더블클릭하면 부분편집모드로 변경됩니다.<br /><br />
 
 
