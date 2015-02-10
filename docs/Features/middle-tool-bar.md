@@ -8,11 +8,11 @@
 
 ![Alt text](/../img/widget-box.png)
 ### 박스 Box
-박스 형태의 위젯입니다.
+박스 형태의 위젯입니다. <div> 태그로 생성됩니다.
 
 ![Alt text](/../img/widget-text.png)
 ### 텍스트 Text
-텍스트 위젯입니다.
+텍스트 위젯입니다. <p>,<h1>,<h2> 태그로 설정 가능합니다.
 
 ![Alt text](/../img/widget-image.png)<br />
 ### 이미지 Image
@@ -24,7 +24,7 @@
 
 ![Alt text](/../img/widget-carousel.png)<br />
 ### 캐러젤 Carousel
-캐러젤을 손쉽게 만들 수 있는 위젯입니다. 추가할 하위요소의 갯수를 조정합니다.
+캐러젤을 손쉽게 만들 수 있는 위젯입니다. 추가할 하위요소의 갯수를 조정할수있습니다.
 
 ![Alt text](/../img/widget-googlemap.png)<br />
 ### 구글맵 Google map
@@ -52,11 +52,11 @@
 
 ![Alt text](/../img/widget-centeredbox.png)<br />
 ### 센터박스 Centered Box
-가로 중앙으로 자동 정렬되는 박스 위젯입니다. 위치 & 크기 조절이 불가능합니다.
+페이지 요소를 가로 중앙으로 자동 정렬시켜주는 박스 위젯입니다. 속성은 Box와 동일하나 위치 & 크기 조절이 불가능합니다.
 
 ![Alt text](/../img/widget-form.png)<br />
 ### 폼 Form
-사용자가 직접 데이터를 입력할 수 있는 위젯입니다.
+Input 요소를 감싸주는 <form> 태그 위젯입니다.
 
 ![Alt text](/../img/widget-textfield.png)<br />
 ### 인풋 텍스트 Input Text
@@ -106,13 +106,13 @@
 요소의 height 값을 직접 입력하거나, 스텝퍼를 이용하여 1px 씩 조절합니다. px 또는 % 로 단위를 변경할 수 있습니다.
 
 ### 최소/최대 크기 설정 팝업 Min/Max-width & Min/Max-height setting popup 
-최소/최대 높이 또는 너비를 설정할 수 있습니다.
+요소의 최소/최대 높이 또는 너비를 설정할 수 있습니다.
 
 <br /><br />
 
 *****
 ## 정렬 Align
-선택된 요소의 세로/가로 정렬을 설정합니다. <br /><br /><br />
+선택된 요소를 가운데로 고정 시킬수 있습니다. 포지션 옵션이 Relative인 요소는 가로 정렬만 가능합니다. <br /><br /><br />
 *****
 ## 배경컬러 Background Color
-선택된 요소의 배경컬러 Background color를 설정합니다. <br /><br />
+선택된 요소의 배경색을 선택하거나 투명값으로 설정할수 있습니다. <br /><br />
