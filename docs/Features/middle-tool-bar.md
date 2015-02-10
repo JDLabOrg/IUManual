@@ -8,11 +8,11 @@
 
 ![Alt text](/../img/widget-box.png)
 ### 박스 Box
-박스 형태의 위젯입니다. <div> 태그로 생성됩니다.
+박스 형태의 위젯입니다. &lt;div&gt; 태그로 생성됩니다.
 
 ![Alt text](/../img/widget-text.png)
 ### 텍스트 Text
-텍스트 위젯입니다. <p>,<h1>,<h2> 태그로 설정 가능합니다.
+텍스트 위젯입니다. &lt;p&gt;,&lt;h1&gt;,&lt;h2&gt; 태그로 설정 가능합니다.
 
 ![Alt text](/../img/widget-image.png)<br />
 ### 이미지 Image
@@ -56,7 +56,7 @@
 
 ![Alt text](/../img/widget-form.png)<br />
 ### 폼 Form
-Input 요소를 감싸주는 <form> 태그 위젯입니다.
+Input 요소를 감싸주는 &lt;form&gt; 태그 위젯입니다.
 
 ![Alt text](/../img/widget-textfield.png)<br />
 ### 인풋 텍스트 Input Text
