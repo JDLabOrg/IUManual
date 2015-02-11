@@ -30,7 +30,8 @@ pages:
   - ['Widget/html.md', '위젯 속성 Widget Property', 'HTML']
   
   - ['Knownbug/known-bug.md', '알려진 버그 Known Bug', '알려진 버그 리스트']
-  
+
+  - ['Appendix/appendix-shortcut.md', '부록 Appendix', '단축키']  
   - ['Appendix/appendix-voca.md', '부록 Appendix', '용어 설명']
   
 
