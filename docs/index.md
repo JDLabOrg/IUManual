@@ -8,7 +8,7 @@ Closed Beta 프로그램은 아래 링크에서 다운받아 주세요.<br/>
 
 <br /><br />
 
-* 아이유에디터 홈페이지 : <a href="http://iueditor.org/" target="_blank">http://iueditor.org</a>
+* 아이유에디터 홈페이지 : <a href="http://www.iueditor.org/" target="_blank">http://iueditor.org</a>
 
 * JDLab 홈페이지 : <a href="http://jdlab.org/" target="_blank">http://jdlab.org</a>
 
