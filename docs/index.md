@@ -4,7 +4,7 @@
 
 
 <br /><br />
-* 클로즈 베타 버젼 : <a href="#" target="_blank">다운로드</a>
+* 클로즈 베타 버젼 : <a href="https://github.com/JDLabOrg/IUEditor/releases/download/v0.8.3/IUEditorV0.8.3.zip" target="_blank">다운로드</a>
 
 * 아이유에디터 홈페이지 : <a href="http://iueditor.org/" target="_blank">http://iueditor.org</a>
 
