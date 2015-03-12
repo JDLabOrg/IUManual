@@ -1,7 +1,7 @@
 # IUEditor<sup>Beta</sup> Manual 
 ![Alt text](/img/mail-beta.png)<br /><br />
 환영합니다! 아이유에디터<sup>Beta</sup> 공식 메뉴얼입니다.<br/>
-Closed Beta 프로그램은 <a href="https://github.com/JDLabOrg/IUEditor/releases/download/v0.8.3/IUEditorV0.8.3.zip" target="_blank">여기</a>에서 다운받아 주세요.
+Closed Beta 프로그램은 <a href="https://github.com/JDLabOrg/IUEditor/releases/download/v0.8.3/IUEditorV0.8.3.zip" target="_blank"><h1>여기</h1></a>에서 다운받아 주세요.
 
 
 <br /><br />
