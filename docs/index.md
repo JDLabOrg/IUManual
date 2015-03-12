@@ -5,6 +5,7 @@
 
 <br /><br />
 * 0.8.4 클로즈 베타 프로그램 다운로드 : <a href="#" target="_blank">다운로드</a>
+* 
 * 아이유에디터 홈페이지 : <a href="http://iueditor.org/" target="_blank">http://iueditor.org</a>
 
 * JDLab 홈페이지 : <a href="http://jdlab.org/" target="_blank">http://jdlab.org</a>
