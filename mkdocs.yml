@@ -15,9 +15,7 @@ pages:
   - ['Sheet/page.md', '시트 Sheet', '페이지 Page']
   - ['Sheet/composition.md', '시트 Sheet', '컴포지션 Composition']
 
-  - ['Widget/box.md', '위젯 Widget', '박스 Box']
-  - ['Widget/text.md', '위젯 Widget', '텍스트 Text']
-  - ['Widget/image.md', '위젯 Widget', '이미지 Image']
+  - ['Widget/default.md', '위젯 Widget', '기본 위젯 Default Widget']
   - ['Widget/transition.md', '위젯 Widget', '트랜지션 Transition']
   - ['Widget/carousel.md', '위젯 Widget', '캐러젤 Carousel']
   - ['Widget/googlemap.md', '위젯 Widget', '구글맵 Google Map']
