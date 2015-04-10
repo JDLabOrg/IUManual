@@ -1,6 +1,5 @@
-# 서브밋 버튼 Submit Button
-![Alt text](/../img/widget-submit.png)<br />
-![Alt text](/img/property-submit.png)<br /><br />
+# 서브밋 버튼 Submit Button ![Submit Button](/../img/widget-submit.png)<br />
+![Submit Button Property](/img/property-submit.png)<br /><br />
 서브밋 버튼 위젯입니다.<br />
 Form에서 입력받은 내용을 전송하는 기능을 담당합니다.
 <br /><br />

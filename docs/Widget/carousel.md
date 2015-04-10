@@ -1,6 +1,5 @@
-# 캐러젤
-![Alt text](/../img/widget-carousel.png)<br />
-![Alt text](/img/property-carousel.png)<br /><br />
+# 캐러젤 Carousel ![carousel](/img/widget-carousel.png)<br />
+![carousel-property](/img/property-carousel.png)<br /><br />
 캐러젤 위젯입니다.<br />
 하위 아이템은 Box와 속성이 동일하므로 자유롭게 요소를 추가할수 있습니다.
 Property에서 아이템 개수를 추가하거나 컨트롤러나 오토플레이 등의 옵션을 설정할 수 있습니다. <br />

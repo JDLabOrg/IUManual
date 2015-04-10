@@ -1,8 +1,7 @@
-# 웹무비 (비메오&유튜브)
-![Alt text](/../img/widget-webmovie.png)<br />
-![Alt text](/img/property-webmovie.png)<br /><br />
+# 웹무비 WebMovie ![WebMovie](/../img/widget-webmovie.png)<br />
+![WebMovie Property](/img/property-webmovie.png)<br /><br />
 웹무비 위젯입니다.<br />
-Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.<br />
+__Vimeo__와 __Youtube__에 업로드 된 영상을 불러올 수 있습니다.<br />
 영상을 불러올때는 다음과 같이 짧은 주소를 이용합니다.<br /><br />
 Vimeo : http://vimeo.com/영상주소<br />
 Youtube : http://youtu.be/영상주소<br /><br />
