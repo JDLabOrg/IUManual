@@ -1,4 +1,4 @@
-# 구글맵 Google Map ![Google map](/img/widget/IUGooglemap.png)<br />
+# 구글맵 Google Map ![Google map](/img/widget/IUGoogleMap.png)<br />
 ![Google Map Property](/img/property-googlemap.png)<br /><br />
 구글맵 위젯입니다. 좌표값을 설정하면 원하는 위치를 보여줄 수 있습니다.<br /><br />
 컬러스타일이나, 줌 설정 등 다양하게 커스터마이징할 수 있습니다. <br />
