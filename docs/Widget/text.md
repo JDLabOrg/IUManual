@@ -1,4 +1,4 @@
-# 텍스트 Text ![text](/../img/widget-text.png)<br />
+# 텍스트 Text ![text](/img/widget/IUText.png)<br />
 ![Text Property](/img/property-blank.png)<br /><br />
 텍스트 위젯입니다.<br />
 &lt;p&gt; 태그로 생성되며 Text 탭에서 &lt;h1&gt; 혹은 &lt;h2&gt; 태그로 변경할 수 있습니다.<br />

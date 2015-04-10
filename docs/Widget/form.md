@@ -1,4 +1,4 @@
-# 폼 Form ![Form](/../img/widget-form.png)<br />
+# 폼 Form ![Form](/img/widget/PGForm.png)<br />
 ![Form Property](/img/property-form.png)<br /><br />
 폼 위젯입니다.<br />
 Input 요소를 감싸주는 &lt;form&gt; 태그 위젯입니다. 따라서, Input 요소를 추가하기 전에 필수로 생성해야 합니다.<br />

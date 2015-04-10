@@ -1,4 +1,4 @@
-# 임포트 Import ![Import](/../img/widget-import.png)<br />
+# 임포트 Import ![Import](/img/widget/IUImport.png)<br />
 ![Import Property](/img/property-import.png)<br /><br />
 컴포지션을 불러오는 임포트 위젯입니다.<br />
 헤더 또는 푸터 그리고 커스텀 컴포지션 요소를 임포트 할 수 있는 위젯입니다.<br />

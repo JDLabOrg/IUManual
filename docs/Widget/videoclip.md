@@ -1,4 +1,4 @@
-# 비디오클립 Video Clip ![Video Clip](/../img/widget-videoclip.png)<br />
+# 비디오클립 Video Clip ![Video Clip](/img/widget/IUMovie.png)<br />
 ![Video Clip Property](/img/property-videoclip.png)<br /><br />
 비디오클립 위젯입니다.<br />
 라이브러리에 추가 된 영상을 불러올수 있습니다. (.mp4, .mov 지원)

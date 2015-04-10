@@ -1,4 +1,4 @@
-# HTML ![HTML](/../img/widget-html.png)<br />
+# HTML ![HTML](/img/widget/IUHTML.png)<br />
 ![HTML Property](/img/property-html.png)<br /><br />
 HTML 위젯입니다.<br />
 IUEditor에 원하는 위젯이 없을 경우 직접 HTML 코드를 작성해서 넣을 수 있습니다.<br />

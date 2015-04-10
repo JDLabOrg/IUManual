@@ -1,4 +1,4 @@
-# 페이스북 좋아요 Facebook Like Button ![Facebook](/../img/widget-facebook.png)<br />
+# 페이스북 좋아요 Facebook Like Button ![Facebook](/img/widget/IUFBLike.png)<br />
 ![Facebook Property](/img/property-facebook.png)<br /><br />
 페이스북 좋아요 위젯입니다.<br />
 Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니다.<br />
