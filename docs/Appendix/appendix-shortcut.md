@@ -21,20 +21,12 @@
 #### 뷰 관리
 * __Zoom In (&#x2318; +)__ 스페이지를 확대합니다.
 * __Zoom Out (⌘ -)__ 스테이지를 축소합니다.
-* __Event Panel (  &#x21E7;<kbd>Shift</kbd> &#x2318;<kbd>Command</kbd> <kbd>E</kbd>)__ 이벤트 패널을 보여줍니다.
-* __Event Panel (<kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>E</kbd>)__ 이벤트 패널을 보여줍니다.
-*****
-### Show Outline (⌘ L)
-위젯의 외곽요소를 보여줍니다.
+* __Event Panel (&#x21E7;&#x2318; E)__ 이벤트 패널을 보여줍니다.
+* __Resource Panel (&#x21E7;&#x2318; R)__ 리소스 패널을 보여줍니다.
 
-*****
-### Show Ruler (⌘ R)
-스테이지에 룰러 요소를 보여줍니다.
-
-*****
-### Show Guide (⌘ ;)
-스테이지에 가이드 요소를 보여줍니다.
-
-*****
-### Tracing (⇧⌘ T)
-이미지 트레이싱 기능을 on/off 합니다.
+##### 캔버스 뷰 관리
+* __Show Outline (⌘ L)__ 위젯의 외곽요소를 보여줍니다.
+* __Show Widget Info (⌘ I)__ 위젯의 정보를 보여줍니다. (추가된 메모를 나타냅니다.)
+* __Show Ruler (⌘ R)__ 스테이지에 룰러 요소를 보여줍니다.
+* __Show Guide (⌘ ;)__ 설정해 놓은 가이드 라인을 보여줍니다.
+* __Tracing (⇧⌘ T)__ 이미지 트레이싱 기능을 on/off 합니다.
