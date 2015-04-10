@@ -6,7 +6,7 @@ pages:
   
   - ['Features/top-tool-bar.md', '기능설명 Features', '상단 툴바 Top Toolbar']
   - ['Features/middle-tool-bar.md', '기능설명 Features', '중앙 툴바 Middel Toolbar']
-  - ['Features/structure.md', '기능설명 Features', '페이지 스트럭쳐 Page Structure']
+  - ['Features/navigation.md', '기능설명 Features', '네비게이션 Navigation']
   - ['Features/resource-panel.md', '기능설명 Features', '리소스 패널 Resource Panel']
   - ['Features/event-panel.md', '기능설명 Features', '이벤트 패널 Event Panel']
   
