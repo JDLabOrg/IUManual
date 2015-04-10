@@ -15,24 +15,9 @@ pages:
   - ['Sheet/page.md', '시트 Sheet', '페이지 Page']
   - ['Sheet/composition.md', '시트 Sheet', '컴포지션 Composition']
 
-  - ['Widget/default.md', '위젯 Widget', '기본 위젯 Default Widget']
-  - ['Widget/transition.md', '위젯 Widget', '트랜지션 Transition']
-  - ['Widget/carousel.md', '위젯 Widget', '캐러젤 Carousel']
-  - ['Widget/googlemap.md', '위젯 Widget', '구글맵 Google Map']
-  - ['Widget/webmovie.md', '위젯 Widget', '웹무비 Web Movie']
-  - ['Widget/videoclip.md', '위젯 Widget', '비디오클립 Video Clip']
-  - ['Widget/import.md', '위젯 Widget', '임포트 Import']
-  - ['Widget/tweet.md', '위젯 Widget', '트윗 공유 버튼 Tweet Share Button']
-  - ['Widget/facebook.md', '위젯 Widget', '페이스북 좋아요 버튼 Facebook Like Button']
-  - ['Widget/centeredbox.md', '위젯 Widget', '센터박스 Centered Box']
-  - ['Widget/form.md', '위젯 Widget', '폼 Form']
-  - ['Widget/textfield.md', '위젯 Widget', '텍스트필드 Input Text']
-  - ['Widget/textarea.md', '위젯 Widget', '텍스트영역 Input Paragrapth Text']
-  - ['Widget/submit.md', '위젯 Widget', '서브밋 버튼 Submit Button']
-  - ['Widget/html.md', '위젯 Widget', 'HTML']
-  - ['Widget/collection.md', '위젯 Widget', '콜렉션 Collection']
-  - ['Widget/numberset.md', '위젯 Widget', '페이지 넘버 세트 Page Number Set']
-  
+  - ['Widget/basic.md', '위젯 Widget', '기본 위젯 Basic Widget']
+  - ['Widget/complex.md', '위젯 Widget', '복합 위젯 Complex Widget']
+  - ['Widget/programming.md', '위젯 Widget', '프로그래밍 위젯 Programming Widget']
     
   - ['Knownbug/known-bug.md', '알려진 버그 Known Bug', '알려진 버그 리스트']
 
