@@ -12,8 +12,8 @@ pages:
   
   - ['Steps/static-web.md', '웹사이트 만들기 Creating Website', '정적인 웹사이트 제작']
 
-  - ['Sheet/page.md', 'Sheet 시트', '페이지 Page'];
-  - ['Sheet/composition.md', 'Sheet 시트', '컴포지션 Composition'];
+  - ['Sheet/page.md', 'Sheet 시트', '페이지 Page']
+  - ['Sheet/composition.md', 'Sheet 시트', '컴포지션 Composition']
 
   - ['Widget/box.md', '위젯 Widget', '박스 Box']
   - ['Widget/text.md', '위젯 Widget', '텍스트 Text']
