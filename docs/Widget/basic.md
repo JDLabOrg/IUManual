@@ -1,4 +1,4 @@
-# 박스 Box ![box](../img/widget/IUBox.png)<br />
+# 박스 Box ![box](../img/widget/IUBox.png)
 ![box-property](../img/property-blank.png)<br /><br />
 가장 기본적인 위젯이며 &lt;div&gt; 태그로 생성됩니다.<br />
 주로 레이아웃을 설정하는데에 사용되며 하위요소를 묶어주는 그룹 용도로도 사용됩니다.<br /><br />
@@ -16,7 +16,7 @@
 </br>
 ***
 
-# 텍스트 Text ![text](../img/widget/IUText.png)<br />
+# 텍스트 Text ![text](../img/widget/IUText.png)
 ![Text Property](../img/property-blank.png)<br /><br />
 텍스트 위젯입니다.<br />
 &lt;p&gt; 태그로 생성되며 Text 탭에서 &lt;h1&gt; 혹은 &lt;h2&gt; 태그로 변경할 수 있습니다.<br />
@@ -37,7 +37,7 @@
 </br>
 ***
 
-# 이미지 ![Image](../img/widget/IUImage.png)<br />
+# 이미지 ![Image](../img/widget/IUImage.png)
 ![Image Property](../img/property-image.png)<br /><br />
 이미지 위젯입니다.<br />
 라이브러리에 추가한 이미지를 선택하거나, __이미지 URL__을 직접 입력해 불러올수 있습니다.<br />
