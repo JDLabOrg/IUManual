@@ -1,4 +1,5 @@
 # 트랜지션
+![Alt text](/../img/widget-transition.png)<br />
 ![Alt text](/img/property-transition.png)<br /><br />
 트랜지션 위젯입니다.<br />
 트랜지션 위젯은 하위에 2개의 아이템을 가지고 있으며, 클릭 혹은 마우스오버시 1번 아이템에서 2번 아이템으로 전환됩니다.<br />

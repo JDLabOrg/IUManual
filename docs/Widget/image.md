@@ -1,4 +1,5 @@
 # 이미지
+![Alt text](/../img/widget-image.png)<br />
 ![Alt text](/img/property-image.png)<br /><br />
 이미지 위젯입니다.<br />
 라이브러리에 추가한 이미지를 선택하거나, __이미지 URL__을 직접 입력해 불러올수 있습니다.<br />

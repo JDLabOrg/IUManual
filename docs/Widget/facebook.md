@@ -1,8 +1,8 @@
-# 페이스북 좋아요
+# 페이스북 좋아요 Facebook Like Button
+![Alt text](/../img/widget-facebook.png)<br />
 ![Alt text](/img/property-facebook.png)<br /><br />
 페이스북 좋아요 위젯입니다.<br />
 Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니다.<br />
-입력한 URL과 현재 페이지의 URL이 일치해야 정상 동작합니다.
 <br /><br />
 
 

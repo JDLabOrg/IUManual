@@ -1,4 +1,5 @@
-# 센터박스
+# 센터박스 Centered Box
+![Alt text](/../img/widget-centeredbox.png)<br />
 ![Alt text](/img/property-blank.png)<br /><br />
 페이지의 요소를 가운데로 정렬시켜주는 센터박스 위젯입니다.<br />
 섹션에는 자동으로 추가되지만, 필요시 다른 요소에 추가할 수 있도록 위젯으로도 만들어져 있습니다.<br />

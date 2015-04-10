@@ -1,4 +1,5 @@
 # 박스
+![Alt text](/../img/widget-box.png)<br />
 ![Alt text](/img/property-blank.png)<br /><br />
 가장 기본적인 위젯이며 &lt;div&gt; 태그로 생성됩니다.<br />
 주로 레이아웃을 설정하는데에 사용되며 하위요소를 묶어주는 그룹 용도로도 사용됩니다.<br /><br />

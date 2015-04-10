@@ -1,4 +1,5 @@
 # 캐러젤
+![Alt text](/../img/widget-carousel.png)<br />
 ![Alt text](/img/property-carousel.png)<br /><br />
 캐러젤 위젯입니다.<br />
 하위 아이템은 Box와 속성이 동일하므로 자유롭게 요소를 추가할수 있습니다.

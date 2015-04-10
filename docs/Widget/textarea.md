@@ -1,4 +1,5 @@
-# 인풋 텍스트(문장)
+# 인풋 패러그래프 텍스트 Input Paragraph Text
+![Alt text](/../img/widget-textarea.png)<br />
 ![Alt text](/img/property-textarea.png)<br /><br />
 인풋 텍스트(문장) 위젯입니다.<br />
 Form 위젯에 추가하여 사용자로부터 텍스트를 입력받을수 있습니다. (긴 문장에 사용)<br /><br />

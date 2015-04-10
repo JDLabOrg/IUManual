@@ -1,6 +1,8 @@
 # 임포트
+![Alt text](/../img/widget-import.png)<br />
 ![Alt text](/img/property-import.png)<br /><br />
 컴포지션을 불러오는 임포트 위젯입니다.<br />
+헤더 또는 푸터 그리고 커스텀 컴포지션 요소를 임포트 할 수 있는 위젯입니다.<br />
 하나의 컴포지션을 여러개의 임포트에 불러올수 있어 다양한 응용이 가능합니다.
 <br /><br />
 

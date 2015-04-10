@@ -1,4 +1,5 @@
 # 트위터 공유
+![Alt text](/../img/widget-tweet.png)<br />
 ![Alt text](/img/property-tweet.png)<br /><br />
 현재 페이지를 트위터로 공유할 수 있는 트위터 위젯입니다.<br />
 Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니다.
