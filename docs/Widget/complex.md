@@ -165,11 +165,3 @@ Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니
 <br />
 
 
-***
-
-# 버튼 Button ![Button](../img/widget/IUButton.png)
-![Centered Box Property](../img/property-blank.png)<br /><br />
-버튼으로 사용하기 쉽게, 텍스트를 중앙 정렬 (Vertical, Horizontal Center) 시켜줍니다.
-
-<br /><br />
-

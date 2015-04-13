@@ -53,3 +53,11 @@ __Fit widget size to image size__ 버튼을 누르면 불러온 이미지 사이
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
+***
+
+# 버튼 Button ![Button](../img/widget/IUButton.png)
+![Centered Box Property](../img/property-blank.png)<br /><br />
+버튼으로 사용하기 쉽게, 텍스트를 중앙 정렬 (Vertical, Horizontal Center) 시켜줍니다.
+
+<br /><br />
+
