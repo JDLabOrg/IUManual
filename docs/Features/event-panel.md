@@ -19,20 +19,50 @@ Opacity 투명도 값에 대한 애니메이션을 추가합니다.
 <br />
 
 *****
-![Alt text](/../img/event-panel-var.png)<br /><br />
+![Alt text](/../img/event-panel-trigger.png)<br /><br />
 ## 베리에이블 트리거 Variable Trigger
 
 ### 트리거 Trigger
 선택된 위젯에 특정액션이 발생되도록 (롤오버 or 클릭) 변수값과 옵션을 설정합니다.
 
-#### - Variable 
+#### - Variable Name
+현재 페이지에 설정 된 모든 Variable 리스트를 보여줍니다. row를 클릭하면 해당 Variable을 사용하는 Triggered Widget 리스트를 볼 수 있습니다. Variable을 사용하는 Widget이 없으면 Variable Name 리스트에서 삭제 됩니다.
+
+#### - Triggered Widget
+Variable Name 에서 선택한 Variable을 사용하는 Triggered Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, delete키(키보드)를 누르거나 New Variable Name에서 삭제하면 Triggered Widget 리스트에서 삭제 됩니다.
+
+#### - New Variable Name
 트리거의 변수값을 설정합니다. ID나 Name과 같은 역할을 합니다.
 
-#### - Initial Value
+#### - Default
 트리거의 초기값을 설정합니다.
 
 #### - Maximum
 트리거가 최대 몇개의 리시버를 가지는지를 설정합니다.
 
+<br />
+
+*****
+![Alt text](/../img/event-panel-receiver.png)<br /><br />
+## 베리에이블 리시버 Variable Receiver
+
 ### 리시버 Receiver
-트리거메뉴에서 정의한 변수값과 일치하게 될 경우, 리시버 메뉴에서 보여주고 싶은 위젯을 연결합니다. 예를들어, 위젯을 선택하여 equation 필드에 test==1 을 입력할 경우, test 변수가 1이 되었을 때 해당 위젯을 보여주게 됩니다.
+트리거메뉴에서 정의한 변수가 Equation의 조건과 일치하게 될 경우, 리시버가 설정된 위젯을 보여줍니다.
+
+#### - Variable Name
+현재 페이지에 설정 된 모든 Variable 리스트를 보여줍니다. row를 클릭하면 해당 Variable을 사용하는 Receiver Widget 리스트를 볼 수 있습니다. 예를 들어, a라는 Variable을 선택하면 a==1, aa==1, 1==abc와 같은 a가 포함된 Equation을 갖는 위젯들을 보여줍니다. Variable을 사용하는 Widget이 없으면 Variable Name 리스트에서 삭제 됩니다.
+
+#### - Receiver Widget
+Variable Name 에서 선택한 Variable을 사용하는 Receiver Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, delete키(키보드)를 누르거나 Eqation에서 삭제하면 Receiver Widget 리스트에서 삭제 됩니다.
+
+#### - Equation
+Trigger에서 지정한 변수에 대한 조건식을 지정합니다. 예시) a==1
+
+#### - Scroll Loaction
+Receiver 위젯의 Equation이 만족했을 때, 위젯이 보여지는 스크롤 위치를 지정하는 옵션입니다. 옵션을 지정하면 Start와 End사이에 스크롤이 위치했을 때에만 보여지고, 옵션을 지정하지 않으면 스크롤 위치와 상관없이 보여지게 됩니다.
+
+#### - Animation Effect
+Receiver 위젯이 보여질 때 나타나는 애니메이션 효과 입니다.
+
+#### - Duration
+Animation Effect가 실행되서 끝날 때 까지의 시간입니다. 예를 들어, 3.0s를 입력하면 Animation Effect가 3초동안 실행됩니다.
