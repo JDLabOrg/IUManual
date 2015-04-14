@@ -2,7 +2,7 @@
 이벤트 패널은 아이유에디터 메뉴 View > Event 항목을 활성화 시키면 등장합니다. 스크롤 애니메이터, 베리에이블 트리거 같은 이벤트를 추가할 수 있습니다.<br /><br />
 
 *****
-![Alt text](/../img/event-panel-scr.png)<br /><br />
+![Scroll Animator](/img/event-panel-scr.png)<br /><br />
 ## 스크롤 애니메이터 Scroll Animator
 세로로 긴 웹페이지를 스크롤 하게 될 경우, 선택한 요소들에 대한 애니메이션 이벤트를 추가합니다.
 페이지를 스크롤해서 해당 요소에 포커싱 될 때 Before 값에서 After 값으로 조정됩니다.
@@ -19,7 +19,7 @@ Opacity 투명도 값에 대한 애니메이션을 추가합니다.
 <br />
 
 *****
-![Alt text](/../img/event-panel-trigger.png)<br /><br />
+![Variable Trigger](/img/event-panel-trigger.png)<br /><br />
 ## 베리에이블 트리거 Variable Trigger
 
 ### 트리거 Trigger
@@ -43,7 +43,7 @@ Variable Name 에서 선택한 Variable을 사용하는 Triggered Widget 리스�
 <br />
 
 *****
-![Alt text](/../img/event-panel-receiver.png)<br /><br />
+![Variable Receiver](/img/event-panel-receiver.png)<br /><br />
 ## 베리에이블 리시버 Variable Receiver
 
 ### 리시버 Receiver
