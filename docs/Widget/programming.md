@@ -2,8 +2,8 @@
 
 ***
 
-# 폼 Form ![Form](../img/widget/PGForm.png)
-![Form Property](../img/property-form.png)<br /><br />
+# 폼 Form ![Form](/img/widget/PGForm.png)
+![Form Property](/img/property-form.png)<br /><br />
 폼 위젯입니다.<br />
 Input 요소를 감싸주는 &lt;form&gt; 태그 위젯입니다. 따라서, Input 요소를 추가하기 전에 필수로 생성해야 합니다.<br />
 폼 위젯을 먼저 만들고 그 안에 Input 위젯을 넣어주세요.
@@ -25,8 +25,8 @@ Input 요소를 감싸주는 &lt;form&gt; 태그 위젯입니다. 따라서, Inp
 
 ***
 
-# 인풋 텍스트 Input Text ![Input text](../img/widget/PGTextField.png)
-![Input text Property](../img/property-textfield.png)<br /><br />
+# 인풋 텍스트 Input Text ![Input text](/img/widget/PGTextField.png)
+![Input text Property](/img/property-textfield.png)<br /><br />
 인풋 텍스트 위젯입니다.<br />
 Form 위젯에 추가하여 사용자로부터 텍스트를 입력받을수 있습니다.<br /><br />
 
@@ -46,8 +46,8 @@ Form 위젯에 추가하여 사용자로부터 텍스트를 입력받을수 있�
 
 ***
 
-# 인풋 패러그래프 텍스트 Input Paragraph Text ![Input Paragraph Text](../img/widget/PGTextView.png)
-![Input Paragraph Text Property](../img/property-textarea.png)<br /><br />
+# 인풋 패러그래프 텍스트 Input Paragraph Text ![Input Paragraph Text](/img/widget/PGTextView.png)
+![Input Paragraph Text Property](/img/property-textarea.png)<br /><br />
 인풋 텍스트(문장) 위젯입니다.<br />
 Form 위젯에 추가하여 사용자로부터 텍스트를 입력받을수 있습니다. (긴 문장에 사용)<br /><br />
 
@@ -65,8 +65,8 @@ Form 위젯에 추가하여 사용자로부터 텍스트를 입력받을수 있�
 ***
 
 
-# 서브밋 버튼 Submit Button ![Submit Button](../img/widget/PGSubmitButton.png)
-![Submit Button Property](../img/property-submit.png)<br /><br />
+# 서브밋 버튼 Submit Button ![Submit Button](/img/widget/PGSubmitButton.png)
+![Submit Button Property](/img/property-submit.png)<br /><br />
 서브밋 버튼 위젯입니다.<br />
 Form에서 입력받은 내용을 전송하는 기능을 담당합니다.
 
@@ -85,12 +85,12 @@ Form에서 입력받은 내용을 전송하는 기능을 담당합니다.
 
 ***
 
-# 셀렉트 Select ![Select](../img/widget/PGSelect.png)
+# 셀렉트 Select ![Select](/img/widget/PGSelect.png)
 
 ***
 
-# HTML ![HTML](../img/widget/IUHTML.png)
-![HTML Property](../img/property-html.png)<br /><br />
+# HTML ![HTML](/img/widget/IUHTML.png)
+![HTML Property](/img/property-html.png)<br /><br />
 HTML 위젯입니다.<br />
 IUEditor에 원하는 위젯이 없을 경우 직접 HTML 코드를 작성해서 넣을 수 있습니다.<br />
 하지만 원하는 위젯이 있다면 iu@jdalb.org로 의견을 보내주세요!
@@ -111,7 +111,7 @@ HTML 위젯은 아래와 같은 속성을 지닙니다.
 
 ***
 
-# 콜렉션 Collection ![Collection](../img/widget/IUCollection.png)
+# 콜렉션 Collection ![Collection](/img/widget/IUCollection.png)
 <!-- Collection Property Image
 ![Import Property](../img/property-import.png)<br /><br />
 -->
@@ -132,7 +132,7 @@ HTML 위젯은 아래와 같은 속성을 지닙니다.
 
 ***
 
-# 페이지 넘버 세트 Page Number Set ![Page Number Set](../img/widget/PGPageLinkSet.png)
+# 페이지 넘버 세트 Page Number Set ![Page Number Set](/img/widget/PGPageLinkSet.png)
 <!-- Page Number Set Property Image
 ![Import Property](../img/property-import.png)<br /><br />
 -->
