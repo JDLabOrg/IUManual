@@ -7,15 +7,15 @@ IUEditor에서 사용할 수 있는 템플릿의 모음입니다. 프로그램 �
 
 * __[IUPro](http://iupro.iueditor.org)__ 
 
-    ![IUPro](../img/templates/iupro.png)
+    ![IUPro](/img/templates/iupro.png)
 <br /><br />
 
 * __[Paper](http://paper.iueditor.org)__
 
-    ![Paper](../img/templates/paper.png)
+    ![Paper](/img/templates/paper.png)
 <br /><br />
 
 * __[Academy](http://iuacademy.iueditor.org/index.html)__ 
 
-    ![Academy](../img/templates/academy.png)
+    ![Academy](/img/templates/academy.png)
 <br /><br />
