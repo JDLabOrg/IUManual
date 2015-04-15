@@ -21,7 +21,7 @@ pages:
 
   - ['Tutorial/tutorial.md', 'IUEditor 101', 'IUEditor 101']  
   
-  - ['Appendix/appendix-template.md', '부록 Appendix', '템플릿 Templates']  
+  - ['Appendix/appendix-templates.md', '부록 Appendix', '템플릿 Templates']  
   - ['Appendix/appendix-shortcut.md', '부록 Appendix', '단축키 Shortcut']  
   - ['Appendix/appendix-voca.md', '부록 Appendix', '용어 설명']
   
