@@ -12,5 +12,5 @@
 ---
 
 
-* JDLab 홈페이지 : <a href="http://jdlab.org/" target="_blank">http://jdlab.org</a>
+* JDLab : <a href="http://jdlab.org/" target="_blank">http://jdlab.org</a>
 
