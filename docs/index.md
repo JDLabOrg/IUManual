@@ -6,7 +6,7 @@
 프로그램은 아래 링크에서 다운받아 주세요.</br>
 </br>
 
-IUEditor : <a href="http://www.iueditor.org/" target="_blank">http://www.iueditor.org</a>
+###IUEditor : <a href="http://www.iueditor.org/" target="_blank">http://www.iueditor.org</a>###
 
 
 ---
@@ -14,4 +14,3 @@ IUEditor : <a href="http://www.iueditor.org/" target="_blank">http://www.iuedito
 
 * JDLab 홈페이지 : <a href="http://jdlab.org/" target="_blank">http://jdlab.org</a>
 
-<style>h2 {text-decoration: underline;}</style>
