@@ -1,5 +1,5 @@
 # 상단 툴바 Top Toolbar
-![Alt text](/../img/top-toolbar.png)<br /><br />
+![Alt text](../../img/top-toolbar.png)<br /><br />
 상단 툴바는 __1)커맨드 2)탭 메뉴 3)트레이싱 4)페이지설정 5)줌__ 영역으로 구분됩니다.<br />
 
 *****
@@ -19,27 +19,27 @@
 상단 툴 바 중앙에 위치한 탭 메뉴 영역에서는 __텍스트 / 속성 / 스타일 / 액션 / 백엔드__ 탭 메뉴가 있습니다. 각 탭 메뉴를 선택하면, 상단 툴바 하단의 프로퍼티 패널에 보여집니다. <br />
 
 *****
-![Alt text](/../img/tab-text.png)<br />
+![Alt text](../../img/tab-text.png)<br />
 ### 텍스트 탭 Text
 텍스트 탭 메뉴를 선택하면, __폰트 패밀리 / 두께 / 크기 / 컬러 / 행간 / 자간 / 제목 텍스트 / 정렬__ 등을 설정할 수 있습니다.
 
 *****
-![Alt text](/../img/tab-property.png)<br />
+![Alt text](../../img/tab-property.png)<br />
 ### 속성 탭 Property
 속성 탭 메뉴를 선택하면, 선택한 각 위젯의 개별 속성을 변경할 수 있습니다. 각 위젯 별로 설정 가능한 항목이 다릅니다.
 
 *****
-![Alt text](/../img/top-toolbar.png)<br />
+![Alt text](../../img/top-toolbar.png)<br />
 ### 스타일 탭 Style
 스타일 탭 메뉴를 선택하면, __라운딩 / 보더 / 박스 쉐도우 / 투명도 / 배경 이미지__ 등을 설정할 수 있습니다.
 
 *****
-![Alt text](/../img/tab-action.png)<br />
+![Alt text](../../img/tab-action.png)<br />
 ### 액션 탭 Action
 액션 텝 메뉴를 선택하면, __링크 / 마우스 오버__ 등을 설정할 수 있습니다.
 
 *****
-![Alt text](/../img/tab-backend.png)<br />
+![Alt text](../../img/tab-backend.png)<br />
 ### 백엔드 탭 Back-End
 백엔드 탭 메뉴를 선택하면 특정 위젯에 __변수__를 설정할 수 있습니다. (장고 Django 프로젝트일 때만 가능합니다.)
 <br /><br />
