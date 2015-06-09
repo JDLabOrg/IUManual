@@ -1,5 +1,5 @@
 # 중앙 툴바 Middle Toolbar
-![image](../../img/mid-toolbar.png)<br /><br />
+![image](/img/mid-toolbar.png)<br /><br />
 중앙 툴바는 스테이지 바로 상단에 위치하며, __1)위젯 2)포지션 3)높이/너비 4)정렬 5)배경컬러__ 영역으로 구분됩니다.<br />
 
 *****
