@@ -1,5 +1,5 @@
 # IUEditor<sup>Beta</sup> Manual 
-![Beta Image](/img/mail-beta.png)
+![Beta Image](/img/iueditor-facebook-ad-img-A03.png)
 
 
 환영합니다! 아이유에디터<sup>Beta</sup> 공식 메뉴얼입니다.</br>
