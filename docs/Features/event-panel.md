@@ -5,7 +5,7 @@
 ![Scroll Animator](/img/event-panel-scr.png)<br /><br />
 ## 스크롤 애니메이터 Scroll Animator
 세로로 긴 웹페이지를 스크롤 하게 될 경우, 선택한 요소들에 대한 애니메이션 이벤트를 추가합니다.
-페이지를 스크롤해서 해당 요소에 포커싱 될 때 Before 값에서 After 값으로 조정됩니다.
+스크롤 애니메이터는 해당요소가 브라우저 중앙에 근접할수록 After값에 가까워집니다. 그래서 페이지를 스크롤해서 해당 요소에 포커싱 될 때 Before 값에서 After 값으로 조정됩니다.
 
 ### X-Position
 X 위치 값에 대한 애니메이션을 추가합니다.
