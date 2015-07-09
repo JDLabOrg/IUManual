@@ -1,4 +1,4 @@
-![Page Structure](/../img/page-structure.png)<br />
+![Page Structure](/img/page-structure.png)<br />
 
 ## 스트럭쳐 Structure
 현재 선택한 페이지에 속한 요소들 (섹션, 헤더, 푸터, 페이지컨텐트, 위젯 등)의 구조를 트리형태로 보여주는 패널입니다. <br/>
