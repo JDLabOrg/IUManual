@@ -1,4 +1,4 @@
-# IUEditor 101
+# IUEditor Tutorial
 
 IUEditor를 배울 수 있는 기본 튜토리얼입니다.&nbsp;&nbsp;__[튜토리얼 사이트 가기](http://tutorial.iueditor.org)__
   
