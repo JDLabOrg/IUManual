@@ -9,6 +9,9 @@ pages:
   - ['Features/navigation.md', '기능설명 Features', '네비게이션 Navigation']
   - ['Features/resource-panel.md', '기능설명 Features', '리소스 패널 Resource Panel']
   - ['Features/event-panel.md', '기능설명 Features', '이벤트 패널 Event Panel']
+  - ['Features/memo-panel.md', '기능설명 Features', '메모 패널 Memo Panel']
+  - ['Features/custom-code-panel.md', '기능설명 Features', '커스텀 코드 패널 Custom Code Panel']
+  - ['Features/import-widget-panel.md', '기능설명 Features', '임포트 위젯 패널 Import Widget Panel']
   
   - ['Sheet/page.md', '시트 Sheet', '페이지 Page']
   - ['Sheet/composition.md', '시트 Sheet', '컴포지션 Composition']
