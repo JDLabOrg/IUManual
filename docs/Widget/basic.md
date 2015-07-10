@@ -55,9 +55,9 @@ __Fit widget size to image size__ 버튼을 누르면 불러온 이미지 사이
 
 ***
 
-# 버튼 Button ![Button](/img/widget/IUButton.png)
+# 셀 Cell ![Cell](/img/widget/IUCell.png)
 ![Centered Box Property](/img/property-blank.png)<br /><br />
-버튼으로 사용하기 쉽게, 텍스트를 중앙 정렬 (Vertical, Horizontal Center) 시켜줍니다.
+텍스트가 자동으로 중앙정렬 되어 있는 위젯입니다. 위젯의 높이 H 는 픽셀 px 단위만 사용할 수 있습니다.
 
 <br /><br />
 
