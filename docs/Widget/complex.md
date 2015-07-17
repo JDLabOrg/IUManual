@@ -87,7 +87,7 @@ Youtube : http://youtu.be/영상주소<br /><br />
 # 비디오클립 Video Clip ![Video Clip](/img/widget/IUMovie.png)
 ![Video Clip Property](/img/iu_manual_prop_complex_IUMovie.png)<br /><br />
 비디오클립 위젯입니다.<br />
-라이브러리에 추가 된 영상을 불러올수 있습니다. (.mp4, .mov 지원)
+라이브러리에 추가 된 영상을 불러올수 있습니다. (.mp4 지원)
 <br /><br />
 
 
