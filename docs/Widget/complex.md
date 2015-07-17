@@ -127,7 +127,7 @@ Youtube : http://youtu.be/영상주소<br /><br />
 # 컬랩시블 Collapsible ![Collapsible](/img/widget/IUCollapsible.png)
 ![Collapsible Property](/img/iu_manual_prop_complex_IUCollapsible.png)<br /><br />
 컬랩시블 위젯입니다.<br />
-컬랩시블 아이템 선택 시 컨텐츠 영역을 보여줍니다.
+컬랩시블 아이템을 선택 시 컨텐츠 영역을 보여줍니다. 트랜지션 효과와 타이밍 등을 설정할 수 있습니다.
 <br /><br />
 
 
@@ -246,9 +246,9 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 
 ***
 
-# SVG SVG ![SVG](/img/widget/IUSVG.png)
+# SVG (Scalable Vector Graphics) ![SVG](/img/widget/IUSVG.png)
 ![SVG Property](/img/iu_manual_prop_complex_IUSVG.png)<br /><br />
-SVG 이미지를 사용할 수 있는 위젯입니다.<br />
+SVG를 사용할 수 있는 위젯입니다.<br />
 아이유에디터에서는 메뉴, 검색, 체크, 좌/우 화살표 등의 형태를 기본으로 제공합니다. <br />
 Property 에서 배경컬러, 스트로크 컬러등을 설정 할 수 있으며, 외부에서 그린 SVG 이미지의 코드를 붙여넣어 원하는 형태를 사용할 수 도 있습니다.
 <br /><br />
