@@ -104,6 +104,46 @@ Youtube : http://youtu.be/영상주소<br /><br />
 
 ***
 
+# 탭 뷰 Tab View ![Tab View](/img/widget/IUTabView.png)
+![Tab View Property](/img/iu_manual_prop_complex_IUTabView.png)<br /><br />
+탭 뷰 위젯입니다.<br />
+탭 선택 시 각각의 탭에 연결된 탭 컨텐츠를 보여줍니다.
+<br /><br />
+
+
+### 속성<br />
+탭 뷰 위젯은 아래와 같은 속성을 지닙니다.
+
+* 하위요소 : -
+* 링크 : -
+* 스크롤 애니메이터 : -
+* 배경이미지 : -
+* 백엔드 엘립시스 : -
+
+<br />
+
+***
+
+# 컬랩시블 Collapsible ![Collapsible](/img/widget/IUCollapsible.png)
+![Collapsible Property](/img/iu_manual_prop_complex_IUCollapsible.png)<br /><br />
+컬랩시블 위젯입니다.<br />
+컬랩시블 아이템 선택 시 컨텐츠 영역을 보여줍니다.
+<br /><br />
+
+
+### 속성<br />
+컬랩시블 위젯은 아래와 같은 속성을 지닙니다.
+
+* 하위요소 : -
+* 링크 : -
+* 스크롤 애니메이터 : -
+* 배경이미지 : -
+* 백엔드 엘립시스 : -
+
+<br />
+
+***
+
 # 임포트 Import ![Import](/img/widget/IUImport.png)
 ![Import Property](/img/iu_manual_prop_complex_IUImport.png)<br /><br />
 컴포지션을 불러오는 임포트 위젯입니다.<br />
@@ -143,6 +183,27 @@ Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니
 
 <br />
 
+
+***
+
+# 페이스북 좋아요 버튼 Facebook Like Button ![Facebook Like Button](/img/widget/IUFBLike.png)<br />
+![Facebook Like Button Property](/img/iu_manual_prop_complex_IUFacebook.png)<br /><br />
+현재 페이지를 페이스북으로 공유할 수 있는 페이스북 위젯입니다.<br />
+Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으나 크기는 조정되지 않습니다.
+<br /><br />
+
+
+### 속성<br />
+페이스북 좋아요 버튼 위젯은 아래와 같은 속성을 지닙니다.
+
+* 하위요소 : 불가능
+* 링크 : 가능
+* 스크롤 애니메이터 : 가능
+* 배경이미지 : 가능
+* 백엔드 엘립시스 : 불가능
+
+<br />
+
 ***
 
 # 센터박스 Centered Box ![Centered Box](/img/widget/IUCenterBox.png)
@@ -161,6 +222,45 @@ Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니
 * 링크 : 가능
 * 스크롤 애니메이터 : 가능
 * 배경이미지 : 가능
+* 백엔드 엘립시스 : 불가능
+<br />
+
+***
+
+# 프로그레스 바 Progress Bar ![Progress Bar](/img/widget/IUProgressBar.png)
+![Centered Box Property](/img/iu_manual_prop_complex_IUProgressBar.png)<br /><br />
+최대치 대비 현재 비율을 나타태주는 프로그레스 바를 그릴 수 있는 위젯입니다.<br />
+프로그레스 바의 크기와 컬러를 자유롭게 선택 가능하며, 줄무늬나 움직임 등 옵션을 설정할 수 있습니다.
+<br /><br />
+
+
+### 속성<br />
+프로그레스 바 위젯은 아래와 같은 속성을 지닙니다.
+
+* 하위요소 : 불가능
+* 링크 : 가능
+* 스크롤 애니메이터 : 가능
+* 배경이미지 : 불가능
+* 백엔드 엘립시스 : 불가능
+<br />
+
+***
+
+# SVG SVG ![SVG](/img/widget/IUSVG.png)
+![SVG Property](/img/iu_manual_prop_complex_IUSVG.png)<br /><br />
+SVG 이미지를 사용할 수 있는 위젯입니다.<br />
+아이유에디터에서는 메뉴, 검색, 체크, 좌/우 화살표 등의 형태를 기본으로 제공합니다. <br />
+Property 에서 배경컬러, 스트로크 컬러등을 설정 할 수 있으며, 외부에서 그린 SVG 이미지의 코드를 붙여넣어 원하는 형태를 사용할 수 도 있습니다.
+<br /><br />
+
+
+### 속성<br />
+SVG 위젯은 아래와 같은 속성을 지닙니다.
+
+* 하위요소 : 불가능
+* 링크 : 가능
+* 스크롤 애니메이터 : 가능
+* 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 <br />
 
